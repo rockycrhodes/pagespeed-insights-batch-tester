@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# Output files — generated, do not commit
+psi_results.json
+*.xlsx
+
+# macOS
+.DS_Store
